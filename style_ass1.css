@@ -1,0 +1,12 @@
+table,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+tr {
+    text-align: justify;  
+}
+h4 {
+    text-align: center;
+    color: aliceblue;
+    margin: 1px 1px;
+}
